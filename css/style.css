@@ -912,7 +912,7 @@ a {
   font-weight: 700;
   text-align: center;
   color: #fff;
-  text-transform: none;
+  text-transform: uppercase;
 }
 
 .workCard__type {
